@@ -1,0 +1,102 @@
+/* .icon{
+  width:13%;
+  height:auto;
+  display:block;
+  margin-left:auto;
+
+} */
+.icon{
+  display: flex;
+  justify-content: center;
+}
+.icon1{
+  width: 5%;
+  height: 5%;
+}
+
+/* li{
+  display: inline-block;
+  margin:0%;
+} */
+.banner1{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+ height: 50%;
+ width:50%;
+}
+.offers{
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+
+}
+.o1{
+  width:30%;
+}
+.o1>img{
+  width:100%;
+}
+.o2{
+  width:30%;
+}
+.o2>img{
+  width:100%;
+}
+
+.k1{
+  width:20%;
+}
+.k1>img{
+  width:100%;
+}
+.k2{
+  width:20%;
+}
+.k2>img{
+  width:100%;
+}
+.k3{
+  width:20%;
+}
+.k3>img{
+  width:100%;
+}
+
+.s1{
+  width:31%;
+}
+.s1>img{
+  width:100%;
+}
+.s2{
+  width:31%;
+}
+.s2>img{
+  width:100%;
+}
+
+.a1{
+  width:15%;
+}
+.a1>img{
+  width:100%;
+}
+.a2{
+  width:15%;
+}
+.a2>img{
+  width:100%;
+}
+.a3{
+  width:15%;
+}
+.a3>img{
+  width:100%;
+}
+.a4{
+  width:15%;
+}
+.a4>img{
+  width:100%;
+}
